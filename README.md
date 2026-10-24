@@ -18,3 +18,8 @@ View your app in AI Studio: https://ai.studio/apps/drive/1mo91NzOlFLd_7LwBVqqxh2
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+
+## Printable product candidates
+
+- [Coastal Observation Journal](products/coastal-observation-journal/README.md) — original three-page A4 observation worksheet. Print-ready HTML is included; commercial release, device print QA and field testing are not yet approved or completed.
