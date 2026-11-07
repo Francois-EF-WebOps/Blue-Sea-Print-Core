@@ -18,3 +18,10 @@ Observe from a stable place above the waterline. Do not enter water, climb rocks
 
 ## Rights and release
 Original worksheet copy and layout drafted for this repository; no third-party images, fonts or copied source material are included. The repository currently has no confirmed product-specific commercial release decision. Before sale, the owner should approve the final copy, product name, licence, preview images and listing terms. No field testing or expert safety review has been completed.
+
+
+## Learning design
+- [Learning specification](LEARNING_SPEC.md) — intended learner, observable outcomes, page-by-page learning sequence, differentiation, formative assessment and pilot questions.
+- [Repository learning delivery standard](../../../docs/LEARNING_DELIVERY_STANDARD.md) — reusable design, presentation, technical, assessment and release gates.
+
+The learning specification is a design pass. The worksheet HTML has not yet been revised to implement its proposed prompts, and no learner pilot or expert safety review has been completed.
