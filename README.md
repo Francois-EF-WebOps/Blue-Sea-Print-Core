@@ -1,25 +1,25 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Blue-Sea-Print-Core
 
-# Run and deploy your AI Studio app
+**Blue-Sea-Print-Core** is the product source of truth and publishing label for an independent family of educational and practical learning products.
 
-This contains everything you need to run your app locally.
+It operates within the established **Confluence Helix** master identity. Individual products have their own defined audiences, learning outcomes, formats, safety boundaries and release records. The catalogue is not one single age-banded product.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1mo91NzOlFLd_7LwBVqqxh2jYaI7atGLO
+## Brand and educational position
 
-## Run Locally
+- Confluence Helix is the master identity; Blue-Sea-Print-Core is the publishing label.
+- Products are independently scoped. Do not assume that an audience, visual treatment or learning format applies to every product.
+- Fin and Nik are recurring characters available where they serve a learning purpose; they are not required in every product.
+- The Scouts movement is one historical/educational inspiration for the broader learning approach only. This project is independent and has no formal affiliation with, endorsement by, or representation of any Scout organisation.
+- No Scout organisation's names, logos, badges, ranks or institutional identity should be used to imply affiliation.
 
-**Prerequisites:**  Node.js
+See [Brand and Educational Positioning](docs/BRAND_AND_EDUCATIONAL_POSITIONING.md).
 
+## Current product candidate
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- [Coastal Observation Journal](products/coastal-observation-journal/README.md) — a three-page A4 observation worksheet. Learning design and source files are under development; PDF production, device/print QA, product-specific audience definition, final rights review, field testing and commercial release remain incomplete.
 
+## Repository use
 
-## Printable product candidates
+This repository preserves editable product sources, learning specifications, production instructions, provenance records and release evidence. Do not treat a candidate or preview as a commercially cleared product.
 
-- [Coastal Observation Journal](products/coastal-observation-journal/README.md) — original three-page A4 observation worksheet. Print-ready HTML is included; commercial release, device print QA and field testing are not yet approved or completed.
+The original AI Studio starter scaffold has been removed from this README because it did not describe the publishing repository or its products.
